@@ -1,0 +1,23 @@
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\IT Help Desk.csproj.AssemblyReference.cache
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmAdminDashboard.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ChangePriority.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmForgotPass.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmForgotUser.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.HelpPage.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmITDashboard.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmLogin.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmProjectMemberDashboard.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\IT_Help_Desk.Properties.Resources.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\Registration_Page.Register.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmReportManagerDash.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Response.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.TicketForm.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.TicketInfo.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmUserTypeCodes.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmUserTypeCodesCheck.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ChangePriority.aa-DJ.resources
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\IT Help Desk.csproj.GenerateResource.cache
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\IT Help Desk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\IT Help Desk.AssemblyInfoInputs.cache
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\IT Help Desk.AssemblyInfo.cs
+C:\Users\shank\source\repos\guguldevelopers\WinFormsApp2\obj\Debug\net8.0-windows\IT Help Desk.csproj.CoreCompileInputs.cache
